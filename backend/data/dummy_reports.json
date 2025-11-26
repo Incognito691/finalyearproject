@@ -1,0 +1,482 @@
+[
+  {
+    "number": "9801234567",
+    "category": "OTP Theft Attempt",
+    "message": "Dear customer, your eSewa account has been locked. Please share OTP code to unlock. Call 9801234567 immediately.",
+    "scam_probability": 0.92
+  },
+  {
+    "number": "9801234567",
+    "category": "OTP Theft Attempt",
+    "message": "Urgent! Your Khalti wallet will be blocked. Share the verification code we sent to verify your identity.",
+    "scam_probability": 0.89
+  },
+  {
+    "number": "9801234567",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "Tapaiko eSewa account ma suspicious activity detect bhayo. OTP code pathau natra account band huncha.",
+    "scam_probability": 0.94
+  },
+  {
+    "number": "9812345678",
+    "category": "Impersonation (Bank)",
+    "message": "This is NIC Asia Bank. Your account shows unauthorized transaction. Please provide OTP to block the transaction.",
+    "scam_probability": 0.91
+  },
+  {
+    "number": "9812345678",
+    "category": "Impersonation (Bank)",
+    "message": "Nepal Bank Limited here. Your debit card has been blocked. Share OTP received on your phone to reactivate.",
+    "scam_probability": 0.88
+  },
+  {
+    "number": "9812345678",
+    "category": "OTP Theft Attempt",
+    "message": "Hacked! Someone trying to access my account from this number. They knew my details!",
+    "scam_probability": 0.85
+  },
+  {
+    "number": "9823456789",
+    "category": "Prize/Reward Fraud",
+    "message": "Congratulations! You won Rs 500,000 in Ncell lucky draw. Send Rs 5,000 processing fee to claim your prize.",
+    "scam_probability": 0.96
+  },
+  {
+    "number": "9823456789",
+    "category": "Prize/Reward Fraud",
+    "message": "Tapai Nepal Telecom ko lucky winner ho! Rs 10 lakh jitnu bhayo. Processing ko lagi Rs 3000 pathaunus.",
+    "scam_probability": 0.95
+  },
+  {
+    "number": "9823456789",
+    "category": "Prize/Reward Fraud",
+    "message": "You are selected for Amazon gift card Rs 50,000. Click link and pay Rs 500 delivery charge.",
+    "scam_probability": 0.87
+  },
+  {
+    "number": "9834567890",
+    "category": "Fake Job Offer",
+    "message": "Congratulations! You are selected for Government Job in Ministry. Pay Rs 50,000 for document processing.",
+    "scam_probability": 0.93
+  },
+  {
+    "number": "9834567890",
+    "category": "Fake Job Offer",
+    "message": "Dubai ma job ko lagi select bhanu bhayo. Visa processing ko lagi Rs 80,000 deposit garnu parcha.",
+    "scam_probability": 0.91
+  },
+  {
+    "number": "9834567890",
+    "category": "Fake Job Offer",
+    "message": "Work from home opportunity! Earn Rs 50,000 monthly. Registration fee Rs 10,000 required.",
+    "scam_probability": 0.88
+  },
+  {
+    "number": "9845678901",
+    "category": "Impersonation (Bank)",
+    "message": "Prabhu Bank security department. Suspicious login detected. Reply with your ATM PIN to secure account.",
+    "scam_probability": 0.97
+  },
+  {
+    "number": "9845678901",
+    "category": "Impersonation (Bank)",
+    "message": "This is Nabil Bank fraud department. Someone withdrew money. Share OTP to reverse transaction.",
+    "scam_probability": 0.94
+  },
+  {
+    "number": "9856789012",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "eSewa security alert! Rs 25,000 transaction pending. Cancel garna OTP code pathaunus immediately.",
+    "scam_probability": 0.92
+  },
+  {
+    "number": "9856789012",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "Khalti wallet ma Rs 50,000 credit bhayo. Claim garna yo link ma click garera OTP haalnus.",
+    "scam_probability": 0.89
+  },
+  {
+    "number": "9867890123",
+    "category": "OTP Theft Attempt",
+    "message": "Dear user, your mobile banking OTP is 847392. Do not share with anyone. Valid for 5 minutes.",
+    "scam_probability": 0.15
+  },
+  {
+    "number": "9867890123",
+    "category": "Other",
+    "message": "Hello sir, meeting ko lagi 3 pm ma office aaunu hola. Documents liyera aaunus.",
+    "scam_probability": 0.08
+  },
+  {
+    "number": "9878901234",
+    "category": "Prize/Reward Fraud",
+    "message": "KBC Nepal ko winner! Amitabh Bachchan le announce garnu bhayo. Rs 1 crore claim garna 9878901234 call garnus.",
+    "scam_probability": 0.98
+  },
+  {
+    "number": "9878901234",
+    "category": "Prize/Reward Fraud",
+    "message": "Facebook lottery winner selected! Mark Zuckerberg personally chose you. Pay $100 processing to get $500,000.",
+    "scam_probability": 0.96
+  },
+  {
+    "number": "9889012345",
+    "category": "Fake Job Offer",
+    "message": "Online data entry job. Daily 2-3 hours work, earn Rs 25,000 monthly. Registration Rs 5,000 only.",
+    "scam_probability": 0.86
+  },
+  {
+    "number": "9889012345",
+    "category": "Fake Job Offer",
+    "message": "Malaysia construction company hiring. Salary Rs 60,000. Agent fee Rs 1,50,000 advance needed.",
+    "scam_probability": 0.92
+  },
+  {
+    "number": "9890123456",
+    "category": "Impersonation (Bank)",
+    "message": "Sanima Bank urgent notice. Your account compromised. Visit branch with photocopy of citizenship and ATM card immediately.",
+    "scam_probability": 0.79
+  },
+  {
+    "number": "9890123456",
+    "category": "Other",
+    "message": "Hi, this is from Nepal SBI Bank. Your loan application has been approved. Visit our branch for documentation.",
+    "scam_probability": 0.12
+  },
+  {
+    "number": "9801111111",
+    "category": "OTP Theft Attempt",
+    "message": "URGENT! Tapaiko IME Pay account hack hunu lagi raicha. OTP code immediately pathaunus to secure account.",
+    "scam_probability": 0.93
+  },
+  {
+    "number": "9801111111",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "Someone transferred Rs 75,000 from your eSewa. Cancel transaction by sharing OTP within 10 minutes.",
+    "scam_probability": 0.91
+  },
+  {
+    "number": "9802222222",
+    "category": "Prize/Reward Fraud",
+    "message": "Daraz anniversary mega sale winner! Tapai Rs 2 lakh shopping voucher jitnu bhayo. Claim fee Rs 1,000.",
+    "scam_probability": 0.88
+  },
+  {
+    "number": "9802222222",
+    "category": "Prize/Reward Fraud",
+    "message": "Netflix 1 year free subscription winner! Pay Rs 500 activation fee to customer care number.",
+    "scam_probability": 0.84
+  },
+  {
+    "number": "9803333333",
+    "category": "Fake Job Offer",
+    "message": "USA student visa with work permit. Guaranteed approval. Pay Rs 3,00,000 processing fee. Limited slots!",
+    "scam_probability": 0.89
+  },
+  {
+    "number": "9803333333",
+    "category": "Fake Job Offer",
+    "message": "Qatar Airways cabin crew recruitment. Salary $2000. Training fee $1500 advance payment required.",
+    "scam_probability": 0.91
+  },
+  {
+    "number": "9804444444",
+    "category": "Impersonation (Bank)",
+    "message": "Global IME Bank KYC update mandatory. Share PAN number, citizenship number and OTP to avoid account suspension.",
+    "scam_probability": 0.95
+  },
+  {
+    "number": "9804444444",
+    "category": "Impersonation (Bank)",
+    "message": "Everest Bank security check. Your card details need verification. Reply with card number and CVV.",
+    "scam_probability": 0.96
+  },
+  {
+    "number": "9805555555",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "Khalti cashback offer! Rs 10,000 credit upcoming. Activate garna login credentials email ma pathaunus.",
+    "scam_probability": 0.87
+  },
+  {
+    "number": "9805555555",
+    "category": "OTP Theft Attempt",
+    "message": "ConnectIPS payment verification needed. Share 6-digit OTP received from your bank to complete Rs 45,000 transfer.",
+    "scam_probability": 0.94
+  },
+  {
+    "number": "9806666666",
+    "category": "Other",
+    "message": "Not me! This number called pretending to be my son. Asked for urgent money transfer. Total scam!",
+    "scam_probability": 0.82
+  },
+  {
+    "number": "9806666666",
+    "category": "Impersonation (Bank)",
+    "message": "I'm from Nepal Police Cyber Bureau. Investigating this number for multiple fraud cases. Do not engage!",
+    "scam_probability": 0.35
+  },
+  {
+    "number": "9807777777",
+    "category": "Prize/Reward Fraud",
+    "message": "PUBG mobile 10,000 UC free! Nepal server winner announcement. Download APK and enter phone number to claim.",
+    "scam_probability": 0.83
+  },
+  {
+    "number": "9807777777",
+    "category": "Other",
+    "message": "Free Fire diamonds giveaway scam! They ask for Google Play redeem codes. Blocked them.",
+    "scam_probability": 0.78
+  },
+  {
+    "number": "9808888888",
+    "category": "Fake Job Offer",
+    "message": "Government teacher vacancy Lok Sewa Aayog. Guaranteed selection Rs 8 lakh. Interview waived. Pay now!",
+    "scam_probability": 0.94
+  },
+  {
+    "number": "9808888888",
+    "category": "Fake Job Offer",
+    "message": "Foreign employment license ready. Japan factory worker visa approved. Final payment Rs 2,50,000 within 2 days.",
+    "scam_probability": 0.9
+  },
+  {
+    "number": "9809999999",
+    "category": "OTP Theft Attempt",
+    "message": "Your SIM card will be blocked by NTC. Reactivation OTP verify garnus immediately. Contact 9809999999.",
+    "scam_probability": 0.91
+  },
+  {
+    "number": "9809999999",
+    "category": "OTP Theft Attempt",
+    "message": "Ncell prepaid number deactivate huncha. Verification code pathayeko cha SMS ma. 30 min bhitra reply garnus.",
+    "scam_probability": 0.88
+  },
+  {
+    "number": "9810000000",
+    "category": "Impersonation (Bank)",
+    "message": "NMB Bank credit card approval! Rs 5 lakh limit. Delivery fee Rs 2,000 advance. Call 9810000000 immediately.",
+    "scam_probability": 0.86
+  },
+  {
+    "number": "9810000000",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "eSewa refund process initiated Rs 15,000. Bank details verify garna OTP share garnus within 1 hour.",
+    "scam_probability": 0.89
+  },
+  {
+    "number": "9811111111",
+    "category": "Prize/Reward Fraud",
+    "message": "COVID-19 government compensation Rs 50,000 per family. Apply now! Registration fee Rs 500 via eSewa/Khalti.",
+    "scam_probability": 0.92
+  },
+  {
+    "number": "9811111111",
+    "category": "Prize/Reward Fraud",
+    "message": "PM employment program selected candidate. Rs 1,00,000 startup capital. Processing charge Rs 5,000 mandatory.",
+    "scam_probability": 0.93
+  },
+  {
+    "number": "9813333333",
+    "category": "Other",
+    "message": "Hello, tapai ko parcel Kathmandu customs ma cha. Delivery ko lagi contact garnus.",
+    "scam_probability": 0.25
+  },
+  {
+    "number": "9813333333",
+    "category": "Other",
+    "message": "Legitimate message. I know this person from work. Just sharing meeting details.",
+    "scam_probability": 0.05
+  },
+  {
+    "number": "9814444444",
+    "category": "Fake Job Offer",
+    "message": "TikTok Nepal content creator partnership. Earn Rs 1 lakh monthly. Application fee Rs 3,000 only.",
+    "scam_probability": 0.81
+  },
+  {
+    "number": "9814444444",
+    "category": "Other",
+    "message": "YouTube channel monetization service. Real views guaranteed. Pay Rs 20,000 for 100k subscribers.",
+    "scam_probability": 0.74
+  },
+  {
+    "number": "9815555555",
+    "category": "Impersonation (Bank)",
+    "message": "Kumari Bank ATM card expired. New card delivery Rs 500 charge. Share OTP to confirm delivery address.",
+    "scam_probability": 0.87
+  },
+  {
+    "number": "9815555555",
+    "category": "Impersonation (Bank)",
+    "message": "Century Bank mobile banking locked due to failed attempts. Reset PIN by providing current PIN and OTP.",
+    "scam_probability": 0.92
+  },
+  {
+    "number": "9816666666",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "Khalti New Year offer! Rs 5,000 bonus credit. Login details verify garna password reset link click garnus.",
+    "scam_probability": 0.85
+  },
+  {
+    "number": "9816666666",
+    "category": "OTP Theft Attempt",
+    "message": "UNAUTHORIZED! My eSewa was hacked from this number. They got OTP somehow. Account emptied!",
+    "scam_probability": 0.88
+  },
+  {
+    "number": "9817777777",
+    "category": "Prize/Reward Fraud",
+    "message": "Samsung Galaxy S24 free giveaway! First 100 winners in Nepal. Pay Rs 1,500 shipping only. Limited time!",
+    "scam_probability": 0.89
+  },
+  {
+    "number": "9817777777",
+    "category": "Prize/Reward Fraud",
+    "message": "Apple iPhone 15 Pro lottery. Tapai winner bhanu bhayo! Courier charge Rs 2,000 matrai. COD available chaina.",
+    "scam_probability": 0.91
+  },
+  {
+    "number": "9818888888",
+    "category": "Fake Job Offer",
+    "message": "Australia PR visa consultant. Guaranteed approval 100%. Investment Rs 15 lakh. Process time 3 months only.",
+    "scam_probability": 0.88
+  },
+  {
+    "number": "9818888888",
+    "category": "Fake Job Offer",
+    "message": "Canada study permit with work visa. University admission guaranteed. Pay Rs 5,00,000 consultant fee urgently.",
+    "scam_probability": 0.9
+  },
+  {
+    "number": "9819999999",
+    "category": "OTP Theft Attempt",
+    "message": "Google verification code: 729485. Never share this code with anyone. Google will never ask for this code.",
+    "scam_probability": 0.1
+  },
+  {
+    "number": "9819999999",
+    "category": "Other",
+    "message": "Thank you for registering. Your appointment is confirmed for tomorrow 2 PM. Bring required documents.",
+    "scam_probability": 0.07
+  },
+  {
+    "number": "9820000001",
+    "category": "Impersonation (Bank)",
+    "message": "Laxmi Bank instant loan approved Rs 3 lakh! Processing fee Rs 15,000. Transfer now to get amount in 1 hour.",
+    "scam_probability": 0.94
+  },
+  {
+    "number": "9820000001",
+    "category": "Impersonation (Bank)",
+    "message": "Machhapuchhre Bank gold loan scheme. Lowest interest rate. Appraisal fee Rs 10,000 advance payment needed.",
+    "scam_probability": 0.86
+  },
+  {
+    "number": "9820000002",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "IME Pay wallet security upgrade mandatory. Old version band huncha. Link click garera update garnus urgently.",
+    "scam_probability": 0.87
+  },
+  {
+    "number": "9820000002",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "Prabhupay cashback Rs 8,000 pending. Account verify garna mobile number OTP share garnu parcha.",
+    "scam_probability": 0.83
+  },
+  {
+    "number": "9820000003",
+    "category": "Prize/Reward Fraud",
+    "message": "Flipkart Big Billion Days winner! Rs 10 lakh shopping voucher. Customs clearance fee Rs 5,000 payment required.",
+    "scam_probability": 0.9
+  },
+  {
+    "number": "9820000003",
+    "category": "Other",
+    "message": "SCAM ALERT! They said I won car but needed tax payment. Obviously fake. Blocked immediately.",
+    "scam_probability": 0.79
+  },
+  {
+    "number": "9820000004",
+    "category": "Fake Job Offer",
+    "message": "Nepal Army bharti 2025. Direct selection without exam. Recommendation letter Rs 5 lakh. Confidential deal only.",
+    "scam_probability": 0.95
+  },
+  {
+    "number": "9820000004",
+    "category": "Fake Job Offer",
+    "message": "Nepal Police constable post reserved. Family quota available. Payment Rs 7 lakh guarantees selection.",
+    "scam_probability": 0.96
+  },
+  {
+    "number": "9820000005",
+    "category": "OTP Theft Attempt",
+    "message": "Facebook account suspicious login detected from India. Secure garna OTP code immediately share garnus.",
+    "scam_probability": 0.89
+  },
+  {
+    "number": "9820000005",
+    "category": "OTP Theft Attempt",
+    "message": "Instagram password reset request received. If not you, reply with verification code to cancel.",
+    "scam_probability": 0.86
+  },
+  {
+    "number": "9820000006",
+    "category": "Impersonation (Bank)",
+    "message": "Citizens Bank credit card blocked. Unblock garna customer care ma call garera OTP provide garnu parcha.",
+    "scam_probability": 0.91
+  },
+  {
+    "number": "9820000006",
+    "category": "Impersonation (Bank)",
+    "message": "Mega Bank account dormant status. Reactivate within 24 hours by confirming ATM PIN and OTP via SMS.",
+    "scam_probability": 0.93
+  },
+  {
+    "number": "9820000007",
+    "category": "eSewa/Khalti Wallet Scam",
+    "message": "eSewa system maintenance completed. Login credentials reset bhayo. New password set garna link ma click garnus.",
+    "scam_probability": 0.84
+  },
+  {
+    "number": "9820000007",
+    "category": "Other",
+    "message": "Khalti merchant payment received Rs 2,500 for order #KTM2024. Thank you for your purchase!",
+    "scam_probability": 0.12
+  },
+  {
+    "number": "9820000008",
+    "category": "Prize/Reward Fraud",
+    "message": "Tesla car Nepal giveaway! Elon Musk ko special offer. Winner selection fee Rs 50,000. Only 5 cars available!",
+    "scam_probability": 0.97
+  },
+  {
+    "number": "9820000008",
+    "category": "Prize/Reward Fraud",
+    "message": "Dubai trip package winner 5 star hotel included! Visa processing Rs 25,000 urgently needed. Hurry limited offer!",
+    "scam_probability": 0.92
+  },
+  {
+    "number": "9820000009",
+    "category": "Fake Job Offer",
+    "message": "Cruise ship hospitality jobs. Monthly salary $3000. Agent commission Rs 2,00,000. Interview guaranteed.",
+    "scam_probability": 0.89
+  },
+  {
+    "number": "9820000009",
+    "category": "Fake Job Offer",
+    "message": "UK care worker visa. Direct placement guaranteed. Training and IELTS waived. Pay Rs 8,00,000 total package.",
+    "scam_probability": 0.91
+  },
+  {
+    "number": "9820000010",
+    "category": "OTP Theft Attempt",
+    "message": "HACKED! Unauthorized person stole my number. They are sending OTP requests to my contacts. Don't respond!",
+    "scam_probability": 0.87
+  },
+  {
+    "number": "9820000010",
+    "category": "Other",
+    "message": "This number is confirmed scammer. Police case registered. Nepal Telecommunications blocked their service.",
+    "scam_probability": 0.45
+  }
+]
