@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+.env
+__pycache__/
+*.pyc
+build/
+dist/
+*.log
+.DS_Store
+*.sqlite3
+frontend/.next/
+frontend/.expo/
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.vscode/
